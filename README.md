@@ -15,7 +15,7 @@ Inorder to run the python file:
        -> py -mrun news.py
 
 Output:
-The csv file consists of 7 columns namely- description, raw article, Article post-processing, (Polarity) polarity of the article, (Sentiment) sentiment of the entire article based on the polarity, Category (category of the news), Score (similarity-score with respect to category).
+The csv file consists of 7 columns namely- description, raw article, Article post-processing, Polarity (polarity of the article), Sentiment (sentiment of the entire article based on the polarity), Category (category of the news), Score (similarity-score with respect to category).
 
 
       
